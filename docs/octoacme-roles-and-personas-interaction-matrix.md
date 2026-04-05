@@ -1,6 +1,6 @@
 # OctoAcme — Role Interaction Matrix
 
-This matrix summarises the key touchpoints between OctoAcme roles across the project lifecycle.  
+This matrix summarizes the key touchpoints between OctoAcme roles across the project lifecycle.  
 Rows represent the **initiating / primary role**; columns represent the **collaborating role**.  
 Each cell describes the nature of the interaction. A `—` means no direct regular interaction.
 
