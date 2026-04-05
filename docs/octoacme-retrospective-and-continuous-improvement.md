@@ -31,3 +31,7 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+
+## Related
+- [OctoAcme Personas](./octoacme-roles-and-personas.md) — role definitions and responsibilities
+- [Ownership & Handoffs Checklist — Retrospective](./octoacme-ownership-and-handoffs-checklist.md#6-retrospective--continuous-improvement) — gate ownership for this phase

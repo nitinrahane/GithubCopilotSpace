@@ -36,3 +36,7 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+## Related
+- [OctoAcme Personas](./octoacme-roles-and-personas.md) — role definitions and responsibilities
+- [Ownership & Handoffs Checklist — Release](./octoacme-ownership-and-handoffs-checklist.md#5-release--deployment) — gate ownership for this phase

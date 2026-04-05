@@ -38,3 +38,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+## Related
+- [OctoAcme Personas](./octoacme-roles-and-personas.md) — role definitions and responsibilities
+- [Ownership & Handoffs Checklist — Execution](./octoacme-ownership-and-handoffs-checklist.md#3-execution--tracking) — gate ownership for this phase
