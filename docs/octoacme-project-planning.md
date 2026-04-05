@@ -41,3 +41,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+
+## Related
+- [OctoAcme Personas](./octoacme-roles-and-personas.md) — role definitions and responsibilities
+- [Ownership & Handoffs Checklist — Planning](./octoacme-ownership-and-handoffs-checklist.md#2-project-planning) — gate ownership for this phase

@@ -41,3 +41,7 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+## Related
+- [OctoAcme Personas](./octoacme-roles-and-personas.md) — role definitions and responsibilities
+- [Ownership & Handoffs Checklist — Initiation](./octoacme-ownership-and-handoffs-checklist.md#1-project-initiation) — gate ownership for this phase
